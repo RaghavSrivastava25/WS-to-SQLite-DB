@@ -8,8 +8,8 @@ from Connect import XTSConnect
 from InteractiveSocketClient import OrderSocket_io
 
 # Interactive API Credentials
-API_KEY = "f6bdb692c9a05029a09113"
-API_SECRET = "Txey033@2q"
+API_KEY = "XXXXX"
+API_SECRET = "XXXXX"
 source = "WEBAPI"
 
 
@@ -17,8 +17,8 @@ source = "WEBAPI"
 
 """
 {
-  "secretKey":"Txey033@2q",
-  "appKey": "f6bdb692c9a05029a09113",
+  "secretKey":"XXXXX",
+  "appKey": "XXXXX",
   "source": "WEBAPI"
 }
 
