@@ -11,7 +11,7 @@ from kiteconnect import KiteTicker
 logging.basicConfig(level=logging.DEBUG)
 
 # Initialize the KiteTicker
-kws = KiteTicker('vw94w5y5xxmfrujf', 'BksFCuWZwGWYbTwJbnHgAtblsXYPILqq')
+kws = KiteTicker('API_KEY', 'ACCESS_TOKEN')
 
 # Connect to the SQLite database
 db = sqlite3.connect('kite_data.db')
