@@ -27,8 +27,8 @@ import sqlite3
 
 
 #composite
-API_KEY = "0a7e285f6c26b3bf979894"
-API_SECRET = "Mika108#IL"
+API_KEY = "xxxxx"
+API_SECRET = "xxxxx"
 source = "WEBAPI"
 
 
